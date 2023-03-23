@@ -1,17 +1,17 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='IFReject',
+    name='ifreject',
 
-    version = '0.1',
+    version='0.1',
 
-    author = 'Runkai Zhang',
+    author='Runkai Zhang',
 
     author_email='271013216@qq.com',
 
     description='Isolation_Forest_Automatic_Rejection',
 
-    install_requires = [
+    install_requires=[
         # 'sklearn>=1.0.1',
         'mne>=1.0.3',
         'mne_features>=0.2.1',

@@ -105,3 +105,6 @@ class if_reject:
     
     def get_bet_class_list(self):
         return self.bet_class_dist
+    
+# if __name__ == '__main__':
+    # main()

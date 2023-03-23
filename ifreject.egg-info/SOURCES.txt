@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+ifreject.egg-info/PKG-INFO
+ifreject.egg-info/SOURCES.txt
+ifreject.egg-info/dependency_links.txt
+ifreject.egg-info/requires.txt
+ifreject.egg-info/top_level.txt
