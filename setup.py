@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='IF_Reject',
+    name='IFReject',
 
     version = '0.1',
 
