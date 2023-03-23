@@ -11,7 +11,10 @@ Then type the command `pip install -e .` in the root directory by installing it 
 The implementation of the code uses below packages:  **mne**,**mne_features**, **sklearn**, **numpy**.
 
 ## Usage
-After installation, the package can be used by using the follow codes in your scripts:
+After installation, the package can be imported with:
+`import IFReject`
+
+Then the package can be used by using the follow codes in your scripts:
 
 `if_class = IF_Reject.if_reject(epochs,['ptp_amp'])`
 
